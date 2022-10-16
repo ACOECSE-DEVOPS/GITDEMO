@@ -5,7 +5,7 @@ public class Sample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.print("DURGA PRASAD IS DEVOPS FACULTY AND CSE FACULTY ALSO");
+		System.out.print("CI/CD USING DEVOPS");
 	}
 
 }
